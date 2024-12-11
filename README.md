@@ -1,4 +1,4 @@
-# ChatGPT Filler Extension
+# ![logo](icon-48.png)  ChatGPT Filler Extension 
 
 **ChatGPT Filler** is a Chrome extension that allows you to create customizable context menu items. These items use the OpenAI API (ChatGPT) to generate responses based on selected text on a webpage.
 
